@@ -29,6 +29,6 @@ Use checkboxes to mark items as packed.
 Share the project with travel companions to collaborate on the itinerary, budget, and packing list.
 Assign tasks to individuals, ensuring everyone contributes to the trip preparation.
 
-*******8Checkout Project :****
+*******Checkout Project :****
 
 Road map in Trello : https://trello.com/invite/b/67589134b9c40e7cc6fa2b2d/ATTIdbbfd24fdbf11cbf09081b8b3ac863f69FDCF4A9/vacation-planner
