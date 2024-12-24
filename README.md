@@ -32,8 +32,9 @@ Assign tasks to individuals, ensuring everyone contributes to the trip preparati
 *******Checkout Project :****
 
 Road map in Trello : https://trello.com/invite/b/67589134b9c40e7cc6fa2b2d/ATTIdbbfd24fdbf11cbf09081b8b3ac863f69FDCF4A9/vacation-planner
+![Uploading vacation planner.PNG…]()
 
-trello board :![Uploading vacation planner.PNG…]()
+
 
 
 
